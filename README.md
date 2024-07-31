@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hari Prasad</h1>
 <h3 align="center">A passionate Robotics and AI enthusiast from India</h3>
 
-- 🌱 I’m currently learning **ROS Framework**
+- 🌱 I’m currently learning **Roboitcs Navigation and Planning stack**
 
 - 📫 How to reach me **hp21662003@gmail.com**
 
