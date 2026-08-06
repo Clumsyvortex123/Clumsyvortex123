@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hari Prasad</h1>
 <h3 align="center">A passionate Robotics and AI enthusiast</h3>
 
-- Trying to re-define how Robots Interact and operate while also tinkering around
--  
+- Trying to **re-define how Robots Interact** and operate while also **tinkering** around
+
 - 📫 How to reach me **hp21662003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
